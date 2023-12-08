@@ -1,0 +1,112 @@
+.icons {
+    display: flex;
+    justify-content: center;
+}
+
+.as {
+    color: grey;
+    border-radius: 2000px;
+    width: 50px;
+    height: 50px;
+    border: 2px solid grey;
+    margin-right: 20px;
+}
+
+.as i {
+    margin-right: 2px;
+}
+
+.links .d-flex a {
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    text-align: center;
+    margin: 0 auto 0 auto;
+}
+
+.links h5 {
+    text-align: center;
+    font-size: larger;
+    font-style: italic;
+    font-weight: bolder;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.insta {
+    color: magenta;
+}
+
+.carousel-item {
+    text-align: center;
+    margin-top: 230px;
+}
+
+.carousel-item h1 {
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.carousel-item p {
+    color: white;
+}
+
+.carousel-inner {
+    height: 600px;
+    width: 100%;
+}
+
+.carousel-item .btn {
+    height: 60px;
+    width: 200px;
+    background-color: transparent;
+    border: 2px groove white;
+    color: white;
+    font-size: 20px;
+}
+
+.hrst {
+    width: 80px;
+    margin: 0 auto 0 auto;
+    color: red;
+    font-weight: bolder;
+    height: 20px;
+}
+
+.para {
+    color: gray;
+}
+
+.form form {
+    width: 500px;
+}
+
+.form form input {
+    background-color: transparent;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 0px solid transparent;
+    border-bottom: 2px solid white;
+}
+
+.form h2 {
+    border-radius: 2000px;
+    width: 250px;
+    height: 60px;
+}
+
+.para-2 {
+    font-style: italic;
+}
+
+.icons {
+    font-size: 30px;
+}
+
+.foot2 {
+    font-size: 30px;
+}
+
+.headings {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+
+}
